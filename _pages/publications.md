@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Learning to Optimize
+### Learning to Optimize
 1. [<font color=Blue>VRP</font>] **Neural Combinatorial Optimization for Robust Routing Problem with Uncertain Travel Times.** <br> Pei Xiao, Zizhen Zhang, **Jinbiao Chen**, Jiahai Wang, Zhenzhen Zhang. <br> *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024.
 2. [<font color=Blue>VRP</font>] **Learning Node-Pair Insertion for the Pickup and Delivery Problem with Time Windows.** <br> Zhanhong Fang, **Jinbiao Chen**, Zizhen Zhang, Dawei Su. <br> *IEEE International Conference on Systems, Man, and Cybernetics* (**SMC**), 2024.
 3. [<font color=Blue>MOCOP</font>] **A Discrete Diffusion-based Approach for Solving Multi-Objective Traveling Salesman Problem.** <br> Dawei Su, Zizhen Zhang, **Jinbiao Chen**, Zhanhong Fang. <br> *IEEE International Conference on Systems, Man, and Cybernetics* (**SMC**), 2024.
@@ -19,6 +19,6 @@ author_profile: true
 11. [<font color=Blue>VRP</font>] **Solving Quadratic Traveling Salesman Problem with Deep Reinforcement Learning.** <br> Hang Zhang, Zizhen Zhang, **Jinbiao Chen**, Jiahai Wang. <br> *IEEE International Conference on Systems, Man, and Cybernetics* (**SMC**), 2022.
 
 
-## Operations Research
+### Operations Research
 1. [<font color=Blue>VRP</font>] **Solving Dynamic Vehicle Routing Problem with Time Windows by Ant Colony System with Bipartite Graph Matching.** <br> Yi Teng, **Jinbiao Chen**, Shiyuan Zhang, Jiahai Wang, Zizhen Zhang. <br> *Egyptian Informatics Journal* (**EGIJ**), 2024.
 2. [<font color=Blue>Stochastic System</font>] **Performance Analysis of Flexible Flow Shop with Parallel Manufacturing Cells.** <br> **Jinbiao Chen**, Huiyu Zhang, Qingxin Chen, Ning Mao, Jiahai Wang. <br> *Computers & Industrial Engineering* (**C&IE**), 2022.
