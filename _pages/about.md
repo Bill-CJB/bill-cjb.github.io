@@ -25,7 +25,7 @@ Selected Awards
 
 Academic Service
 ======
-- **Conference Reviewer**：ICLR 2025, NeurIPS 2024, ICML 2024
+- **Conference Reviewer**：ICLR 2025, NeurIPS 2024, ICML 2024, SMC 2022
 - **Journal Reviewer**：IEEE TEVC
 
 Teaching Assistant
