@@ -13,7 +13,7 @@ Research Interests
 ======
 My interests focus on Learning to Optimize (L2Opt), especially Neural Combinatorial Optimization, where I exploit Deep (Reinforcement) Learning (including Large Language Model) to solve Combinatorial Optimization Problems (COPs) such as the Vehicle Routing Problem (VRP). This area lies at the intersection of Artificial Intelligence and Operations Research, making it both fascinating and challenging. My research in L2Opt includes multi-objective COPs (MOCOPs), complex COPs, out-of-distribution generalization, etc.
 
-Selected Award
+Selected Awards
 ======
 - The Second-Class Scholarship for PhD Students, 2022 - 2024
 - The First-Class Scholarship for Graduate Students, 2018 -2019
