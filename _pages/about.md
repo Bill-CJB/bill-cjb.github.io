@@ -11,7 +11,7 @@ I am currently a final-year PhD student in Computer Science and Engineering at S
 
 Research Interests
 ======
-My research broadly lies in the intersection between Artificial Intelligence and Operations Research, primarily focusing on Learning to Optimize, closely related to Neural Combinatorial Optimization, where Deep (Reinforcement) Learning including Large Language Model is exploited to solve the classic Combinatorial Optimization Problems such as Vehicle Routing Problem.
+My research broadly lies in the intersection between Artificial Intelligence and Operations Research, primarily focusing on Learning to Optimize, closely related to Neural Combinatorial Optimization, where Deep (Reinforcement) Learning (including Large Language Model) is exploited to solve Combinatorial Optimization Problems such as Vehicle Routing Problem.
 
 Getting started
 ======
