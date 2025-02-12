@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student in Computer Science and Technology at Sun Yat-sen University (SYSU), advised by Prof. [Jiahai Wang](https://cse.sysu.edu.cn/content/2551). Previously, I was a visiting PhD student in Industrial Systems Engineering and Management at National University of Singapore (NUS), advised by Prof. [Hanzhang Qin](https://hanzhangqin.com/). I received my master’s degree in Mechanical Engineering at Guangdong University of Technology (GDUT), advised by Prof. [Qingxin Chen](https://jdgcxy.gdut.edu.cn/info/1099/2000.htm), and I completed my bachelor’s degree in Industrial Engineering at GDUT. Additionally, I currently collaborate closely with Prof. [Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU).
+I am currently a final-year PhD student in Computer Science and Technology at Sun Yat-sen University (SYSU), advised by Prof. [Jiahai Wang](https://cse.sysu.edu.cn/teacher/WangJiahai). Previously, I was a visiting PhD student in Industrial Systems Engineering and Management at National University of Singapore (NUS), advised by Prof. [Hanzhang Qin](https://hanzhangqin.com/). I received my master’s degree in Mechanical Engineering at Guangdong University of Technology (GDUT), advised by Prof. [Qingxin Chen](https://jdgcxy.gdut.edu.cn/info/1099/2000.htm), and I completed my bachelor’s degree in Industrial Engineering at GDUT. Additionally, I currently collaborate closely with Prof. [Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU).
 
 Research Interests
 ======
@@ -16,16 +16,16 @@ My interests focus on Learning to Optimize (L2Opt), especially Neural Combinator
 Selected Awards
 ======
 - The Second-Class Scholarship for PhD Students, 2022 - 2024
-- The First-Class Scholarship for Graduate Students, 2018 -2019
+- The First-Class Scholarship for Graduate Students, 2018 - 2019
 - The First-Class Scholarship for Undergraduate Students, 2015 - 2017
-- National Scholarship, 2017
+- National Scholarship, 2017, 2024
 - National Scholarship for Encouragement, 2016
 - The Second Prize in National College Innovation Competition of Industrial Engineering, 2018
 - The Second Prize in National College ERP Business Simulation Competition, 2017
 
 Academic Service
 ======
-- **Conference Reviewer**：ICLR 2025, NeurIPS 2024, ICML 2024, SMC 2022
+- **Conference Reviewer**：ICML 2025, ICLR 2025, NeurIPS 2024, ICML 2024, SMC 2022
 - **Journal Reviewer**：IEEE TEVC
 
 Teaching Assistant
