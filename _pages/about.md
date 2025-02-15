@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student in Computer Science and Technology at Sun Yat-sen University (SYSU), advised by Prof. [Jiahai Wang](https://cse.sysu.edu.cn/teacher/WangJiahai). Previously, I was a visiting PhD student in Industrial Systems Engineering and Management at National University of Singapore (NUS), advised by Prof. [Hanzhang Qin](https://hanzhangqin.com/). I received my master’s degree in Mechanical Engineering at Guangdong University of Technology (GDUT), advised by Prof. [Qingxin Chen](https://jdgcxy.gdut.edu.cn/info/1099/2000.htm), and I completed my bachelor’s degree in Industrial Engineering at GDUT. Additionally, I currently collaborate closely with Prof. [Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU).
+I am currently a final-year PhD student in Computer Science and Technology at Sun Yat-sen University (SYSU), advised by Prof. [Jiahai Wang](https://cse.sysu.edu.cn/teacher/WangJiahai). Previously, I was a visiting PhD student in Industrial Systems Engineering and Management at National University of Singapore (NUS), advised by Prof. [Hanzhang Qin](https://hanzhangqin.com/). I received my master’s degree in Mechanical Engineering at Guangdong University of Technology (GDUT), advised by Prof. [Qingxin Chen](https://jdgcxy.gdut.edu.cn/info/1099/2000.htm), and I completed my bachelor’s degree in Industrial Engineering at GDUT. Additionally, I have been collaborating closely with Prof. [Zhiguang Cao](https://zhiguangcaosg.github.io/) from Singapore Management University (SMU).
 
 Research Interests
 ======
