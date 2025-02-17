@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Learning to Optimize
-1. [<font color=Blue>MOCOP</font>] **Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding.** <br> **Jinbiao Chen**, Zhiguang Cao, Jiahai Wang, Yaoxin Wu, Hanzhang Qin, Zizhen Zhang, Yue-jiao Gong. <br> *International Conference on Learning Representations* (**ICLR**), 2025.
+1. [<font color=Blue>MOCOP</font>] **Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding.** <br> **Jinbiao Chen**, Zhiguang Cao, Jiahai Wang, Yaoxin Wu, Hanzhang Qin, Zizhen Zhang, Yue-Jiao Gong. <br> *International Conference on Learning Representations* (**ICLR**), 2025.
 2. [<font color=Blue>MOCOP</font>] **Neural Multi-Objective Combinatorial Optimization via Graph-Image Multimodal Fusion.** <br> **Jinbiao Chen**, Jiahai Wang, Zhiguang Cao, Yaoxin Wu. <br> *International Conference on Learning Representations* (**ICLR**), 2025.
 3. [<font color=Blue>VRP</font>] **Neural Combinatorial Optimization for Robust Routing Problem with Uncertain Travel Times.** <br> Pei Xiao, Zizhen Zhang, **Jinbiao Chen**, Jiahai Wang, Zhenzhen Zhang. <br> *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024.
 4. [<font color=Blue>VRP</font>] **Learning Node-Pair Insertion for the Pickup and Delivery Problem with Time Windows.** <br> Zhanhong Fang, **Jinbiao Chen**, Zizhen Zhang, Dawei Su. <br> *IEEE International Conference on Systems, Man, and Cybernetics* (**SMC**), 2024.
