@@ -15,11 +15,11 @@ My interests focus on Learning to Optimize (L2Opt), especially Neural Combinator
 
 Selected Awards
 ======
+- National Scholarship, 2017, 2024
+- National Scholarship for Encouragement, 2016
 - The Second-Class Scholarship for PhD Students, 2022 - 2024
 - The First-Class Scholarship for Graduate Students, 2018 - 2019
 - The First-Class Scholarship for Undergraduate Students, 2015 - 2017
-- National Scholarship, 2017, 2024
-- National Scholarship for Encouragement, 2016
 - The Second Prize in National College Innovation Competition of Industrial Engineering, 2018
 - The Second Prize in National College ERP Business Simulation Competition, 2017
 
