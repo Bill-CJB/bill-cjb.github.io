@@ -38,9 +38,27 @@ Selected Awards
 
 Academic Service
 ======
-- **Conference Area Chair:** International Conference on Learning Representations (ICLR), 2027
-- **Conference Reviewer:** International Conference on Machine Learning (ICML); Conference on Neural Information Processing Systems (NeurIPS); International Conference on Learning Representations (ICLR); AAAI Conference on Artificial Intelligence (AAAI); International Conference on Automated Planning and Scheduling (ICAPS); IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS); IEEE Transactions on Evolutionary Computation (IEEE TEVC); IEEE Transactions on Industrial Informatics (IEEE TII); Science China Information Sciences (SCIS); INFORMS Journal on Data Science (IJDS)
+
+### Conference Area Chair
+
+- International Conference on Learning Representations (ICLR), 2027
+
+### Conference Reviewer
+
+- International Conference on Machine Learning (ICML)
+- Conference on Neural Information Processing Systems (NeurIPS)
+- International Conference on Learning Representations (ICLR)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- International Conference on Automated Planning and Scheduling (ICAPS)
+- IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+
+### Journal Reviewer
+
+- IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+- IEEE Transactions on Evolutionary Computation (IEEE TEVC)
+- IEEE Transactions on Industrial Informatics (IEEE TII)
+- Science China Information Sciences (SCIS)
+- INFORMS Journal on Data Science (IJDS)
 
 Teaching Assistant
 ======
