@@ -7,7 +7,7 @@ author_profile: true
 
 My publications are also listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Shs1Cp0AAAAJ&view_op=list_works&sortby=pubdate).
 
-<sup>†</sup> Equal contribution; <sup>*</sup> Corresponding author.
+<sup>†</sup> Equal contribution; <sup>&#42;</sup> Corresponding author.
 
 ## Artificial Intelligence for Operations Research (AI4OR)
 
@@ -48,5 +48,5 @@ My publications are also listed on [Google Scholar](https://scholar.google.com/c
 
 ## Deep Learning for Trajectory Prediction
 
-1. **Skew-normal distributions for modeling asymmetric moving tendencies in pedestrian trajectories.** <br> Siyuan Chen, Yatie Xiao, Yangtao Wang, Yanzhao Xie, Tong Zhu, Rui Duan, **Jinbiao Chen**<sup>*</sup>. <br> *Neurocomputing*, 2026. [Paper](https://doi.org/10.1016/j.neucom.2025.131934)
+1. **Skew-normal distributions for modeling asymmetric moving tendencies in pedestrian trajectories.** <br> Siyuan Chen, Yatie Xiao, Yangtao Wang, Yanzhao Xie, Tong Zhu, Rui Duan, **Jinbiao Chen**<sup>&#42;</sup>. <br> *Neurocomputing*, 2026. [Paper](https://doi.org/10.1016/j.neucom.2025.131934)
 2. **Geometry-Guided Behavior Pattern Adaptation for Trajectory Prediction in Unseen Scenes.** <br> Yaqun Cui, Meixiu Long, **Jinbiao Chen**, Jianpeng Zhou, Siyuan Chen, Jiahai Wang. <br> *International Joint Conference on Neural Networks* (**IJCNN**), 2025. [Paper](https://doi.org/10.1109/ijcnn64981.2025.11228954)
