@@ -9,6 +9,10 @@ My publications are also listed on [Google Scholar](https://scholar.google.com/c
 
 <sup>†</sup> Equal contribution; <sup>&#42;</sup> Corresponding author.
 
+## Books
+
+1. **Learning to Optimize with Applications (学习优化方法及应用).** <br> Jiahai Wang, Zizhen Zhang, **Jinbiao Chen**, et al. <br> *Science Press* (科学出版社), 2026. In Chinese. [book & resources](https://github.com/OLLab-SYSU/L2OApp) · [purchase](https://item.jd.com/10236109524130.html)
+
 ## Artificial Intelligence for Operations Research (AI4OR)
 
 ### Large Language Models for Operations Research

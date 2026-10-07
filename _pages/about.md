@@ -26,6 +26,21 @@ My research focuses on **Artificial Intelligence for Operations Research (AI4OR)
 - **Towards foundation models for combinatorial optimization:** training efficiency, cross-task generalization, and cross-distribution generalization.
 - **Complex combinatorial optimization:** complex constraints, robust vehicle routing problems, and diverse routing and scheduling variants.
 
+Books
+======
+
+<div class="book-entry">
+  <a class="book-entry__cover" href="https://github.com/OLLab-SYSU/L2OApp">
+    <img src="{{ '/images/learning-to-optimize-with-applications.jpg' | relative_url }}" alt="Cover of 学习优化方法及应用 (Learning to Optimize with Applications)" loading="lazy">
+  </a>
+  <div class="book-entry__details">
+    <p><strong>Learning to Optimize with Applications</strong><br>《学习优化方法及应用》</p>
+    <p>Jiahai Wang, Zizhen Zhang, <strong>Jinbiao Chen</strong>, et al.<br>Science Press (科学出版社), 2026. In Chinese.</p>
+    <p>A book on learning to optimize for combinatorial optimization, covering deep reinforcement learning, large language models, multi-objective optimization, and dynamic and robust optimization.</p>
+    <p><a href="https://github.com/OLLab-SYSU/L2OApp">Book &amp; resources</a> · <a href="https://item.jd.com/10236109524130.html">Purchase</a></p>
+  </div>
+</div>
+
 Selected Awards
 ======
 - ICML Silver Reviewer, 2026
