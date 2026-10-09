@@ -28,6 +28,7 @@ My research focuses on **Artificial Intelligence for Operations Research (AI4OR)
 
 Selected Awards
 ======
+- NeurIPS Top Reviewer, 2026
 - ICML Silver Reviewer, 2026
 - NeurIPS Scholar Award, 2023
 - China National Scholarship, 2017, 2024
